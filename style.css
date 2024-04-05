@@ -195,5 +195,44 @@
     font-size: 25px;
   }
 
+  .solucoes {
+    background-color: #0F0F0F;
+    margin-top: 150px;
+  }
+
+  .cartao-solucoes {
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+    gap: 1em;
+  }
+
+  .card-solucoes {
+    background-color: #000;
+    padding: 0.664px 0px 64.518px 0px;
+  }
+
+  .texto-solucoes {
+    color: white;
+    font-size: 46px;
+    text-align: center;
+    padding-top: 100px;
+  }
+
+  .titulo-card-solucoes {
+    color: #D7D5D5;
+    font-size: 19px;
+    font-weight: 700;
+    padding-top: 40px;
+    padding-left: 30px;
+  }
+
+  .legenda-card-solucoes {
+    color: #AFB3CA;
+    width: 238px;
+    padding-top: 10px;
+    padding-left: 30px;
+  }
+
 
  
