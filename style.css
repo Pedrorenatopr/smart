@@ -140,4 +140,41 @@
     margin-left: 40px;
   }
 
+  .texto-section-dois {
+    text-align: center;
+    padding-top: 80px;
+  }
+
+  h2{
+    color: #CAD1E9;
+    font-size: 44px;
+  }
+
+  .legenda-section-dois {
+    color: #AFB3CA;
+    padding-top: 20px;
+  }
+
+  .cartao-section-dois {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    padding-top: 80px;
+  }
+
+  .card-section-dois {
+    border-radius: 15.733px;
+    border: 0.787px solid #2C2D47;
+    background: linear-gradient(137deg, rgba(27, 28, 54, 0.16) 23.98%, rgba(112, 113, 122, 0.16) 65.73%);
+    backdrop-filter: blur(4.6020002365112305px);
+    width: 472px;
+    padding: 31.467px 31px 29.973px 31px;
+  }
+
+  .card-section-dois p {
+    color: #CAD1E9;
+    font-size: 25px;
+    padding-bottom: 1em;
+  }
+
  
