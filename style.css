@@ -198,6 +198,7 @@
   .solucoes {
     background-color: #0F0F0F;
     margin-top: 150px;
+    padding-bottom: 150px;
   }
 
   .cartao-solucoes {
@@ -228,7 +229,7 @@
   }
 
   .legenda-card-solucoes {
-    color: #AFB3CA;
+    color: #D7D5D5;
     width: 238px;
     padding-top: 10px;
     padding-left: 30px;
