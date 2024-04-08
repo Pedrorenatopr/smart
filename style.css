@@ -241,12 +241,20 @@
     gap: 12px;
     align-items: center;
     width: 952px;
+    padding-top: 50px;
+  }
+
+  .titulo-depoimento {
+    font-size: 44px;
+    text-align: center;
+    color: #CAD1E9;
+    font-weight: 700;
   }
 
   .card-depoimento {
     width: 227.877px;
-    height: auto;
-    padding: 15.88px 9.528px 38.297px 9.528px;
+    height: 287px;
+    padding: 28.88px 9.528px 88.297px 9.528px;
     border-radius: 15.88px;
     border: 0.794px solid #2C2D47;
     background: linear-gradient(137deg, rgba(27, 28, 54, 0.16) 23.98%, rgba(112, 113, 122, 0.16) 65.73%);
@@ -264,6 +272,7 @@
     margin-top: 10px;
     font-size: 12px;
     color: #AFB3CA;
+    line-height: 19px;
   }
 
   .depoimento {
