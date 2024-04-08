@@ -290,7 +290,7 @@
     flex-wrap: wrap;
     gap: 10px;
     justify-content: center;
-    width: 1037px;
+    width: 1042px;
   }
 
   .card-servicos {
@@ -298,7 +298,8 @@
     border: 0.914px solid rgba(255, 255, 255, 0.07);
     background: linear-gradient(137deg, rgba(27, 28, 54, 0.16) 23.98%, rgba(112, 113, 122, 0.16) 65.73%);
     backdrop-filter: blur(5.344031810760498px);
-    padding: 13.703px 41.565px 13.703px 14.616px;
+    padding: 13.703px 41.565px 14.703px 14.616px;
+    width: 230px;
   }
 
   .card-servicos img {
