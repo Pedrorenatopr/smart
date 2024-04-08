@@ -354,4 +354,39 @@
     padding-top: 30px;
   }
 
+  .div-duvidas {
+    display: flex;
+    justify-content: center;
+    background: linear-gradient(254deg, #1B1C36 14.36%, #2B4399 60.86%);
+  }
+
+  .duvidas {
+    display: flex;
+    flex-wrap: wrap;
+    width: 1200px;
+    justify-content: center;
+    gap: 10px;
+    padding-top: 100px;
+  }
+
+  .card-duvidas {
+    border-radius: 4.561px;
+    background: #1C1C1C;
+    width: 450px;
+    padding: 10px;
+  }
+
+  .card-duvidas a {
+    color: white;
+  }
+
+  .card-duvidas p {
+    margin-left: 10px;
+  }
+
+  .card-duvidas img {
+    position: absolute;
+    margin-left: 40px;
+  }
+
  
