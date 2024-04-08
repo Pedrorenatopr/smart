@@ -330,7 +330,7 @@
 
   .texto-sobre {
     position: absolute;
-    margin-left: -300px;
+    margin-left: -500px;
     font-size: 18px;
     line-height: 22px;
     padding-top: 100px;
@@ -341,12 +341,16 @@
     font-weight: 700;
   }
 
+  .div-img-sobre {
+    width: 100%;
+  }
+
   .img-sobre {
-    width: 100vh;
+    width: 100%;
   }
  
   .legenda-sobre {
-    width: 603px;
+    width: 413px;
     padding-top: 30px;
   }
 
