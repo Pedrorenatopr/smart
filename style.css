@@ -318,8 +318,36 @@
     justify-content: center;
     background-color: black;
     padding-top: 200px;
-    padding-bottom: 100px;
+    padding-bottom: 200px;
   }
 
+  .sobre-nos {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+  }
+
+  .texto-sobre {
+    position: absolute;
+    margin-left: -300px;
+    font-size: 18px;
+    line-height: 22px;
+    padding-top: 100px;
+  }
+
+  .titulo-sobre {
+    font-size: 52px;
+    font-weight: 700;
+  }
+
+  .img-sobre {
+    width: 100vh;
+  }
+ 
+  .legenda-sobre {
+    width: 603px;
+    padding-top: 30px;
+  }
 
  
