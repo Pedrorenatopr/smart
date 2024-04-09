@@ -384,17 +384,19 @@
     padding: 10px;
   }
 
-  .card-duvidas a {
-    color: white;
+  .cartao-duvidas {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
   }
+
 
   .card-duvidas p {
     margin-left: 10px;
+    color: white;
   }
 
   .card-duvidas img {
-    position: absolute;
-    margin-left: 40px;
   }
 
  
