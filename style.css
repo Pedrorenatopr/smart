@@ -442,6 +442,41 @@
   width: 900px;
 }
 
+footer {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 150px;
+  border-radius: 50px 50px 0px 0px;
+  border-top: 1px solid rgba(45, 46, 72, 0.21);
+  background: rgba(5, 5, 32, 0.30);
+  backdrop-filter: blur(20.350000381469727px);
+  padding: 100px;
+}
+
+footer p {
+  color: #CAD1E9;
+  line-height: 30px;
+}
+
+.endereco {
+  font-size: 10px;
+}
+
+.titulo-footer {
+  color: white;
+}
+
+.redes {
+  display: flex;
+  justify-content: center;
+  gap: 100px;
+  padding-bottom: 50px;
+  padding-top: 50px;
+  border-top: .1px solid rgb(129 54 54);
+  border-image: linear-gradient(to right, transparent, #36536760, transparent) 1;
+}
+
 
 
  
