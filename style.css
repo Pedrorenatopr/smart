@@ -360,13 +360,21 @@
     background: linear-gradient(254deg, #1B1C36 14.36%, #2B4399 60.86%);
   }
 
+  .titulo-duvidas {
+    position: absolute;
+    font-size: 44px;
+    margin-top: 100px;
+    font-weight: 700;
+  }
+
   .duvidas {
     display: flex;
     flex-wrap: wrap;
     width: 1200px;
     justify-content: center;
     gap: 10px;
-    padding-top: 100px;
+    padding-top: 220px;
+    padding-bottom: 130px;
   }
 
   .card-duvidas {
