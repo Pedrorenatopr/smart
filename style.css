@@ -399,4 +399,49 @@
   .card-duvidas img {
   }
 
+  .contato {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding-top: 200px;
+    padding-bottom: 200px;
+    text-align: center;
+  }
+
+  .contato p {
+    font-size: 25px;
+    color: black;
+    padding-bottom: 50px;
+  }
+
+  .destaque-wpp {
+    font-weight: 700;
+  }
+
+  .contato a {
+    border-radius: 2.996px;
+    background: linear-gradient(90deg, #21C606 22.39%, #51AB0B 100.15%);
+    font-size: 18px;
+    color: white;
+    padding: 1em;
+    font-weight: 700;
+    width: 100%;
+  }
+
+  .contato img {
+    margin-top: -150px;
+    position: absolute;
+    margin-left: -100px;
+  }
+
+
+.card-contato {
+  background-color: white;
+  border-radius: 12px;
+  padding: 100px;
+  width: 900px;
+}
+
+
+
  
