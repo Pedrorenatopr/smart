@@ -521,7 +521,8 @@ footer p {
 
   .npc-principal {
     background-image: url(fundo-principal.png);
-    background-position: center 150px; 
+    background-position: center 150px;
+    background-repeat: no-repeat;
   }
 
   .cartao-section-dois {
@@ -672,17 +673,6 @@ footer {
   padding-left: 30px;
   gap: 10px;
 }
-
-.nome-cliente {
-  position: absolute;
-  display: block;
-  margin-top: 8px;
-  margin-left: 5px;
-  color: #CAD1E9;
-}
-
-
-
 
 
 
