@@ -294,6 +294,8 @@
   }
 
   .card-servicos {
+    display: flex;
+    align-items: center;
     border-radius: 18.27px;
     border: 0.914px solid rgba(255, 255, 255, 0.07);
     background: linear-gradient(137deg, rgba(27, 28, 54, 0.16) 23.98%, rgba(112, 113, 122, 0.16) 65.73%);
@@ -302,13 +304,10 @@
     width: 230px;
   }
 
-  .card-servicos img {
-    position: absolute;
-  }
+
 
   .card-servicos p {
-    padding-left: 70px;
-    margin-top: 10px;
+    padding-left: 20px;
   }
 
   .div-servicos {
@@ -581,6 +580,25 @@ footer p {
 
   .texto-depoimento {
     width: 200px;
+  }
+
+  .servicos {
+    gap: 5px;
+    width: 400px;
+  }
+
+  .card-servicos {
+    padding: 13.703px 41.565px 14.703px 14.616px;
+    width: 180px;
+  }
+
+  .card-servicos p {
+    font-size: 10px;
+  }
+
+  .div-servicos {
+    padding-top: 100px;
+    padding-bottom: 100px;
   }
 
 
