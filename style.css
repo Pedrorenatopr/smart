@@ -490,6 +490,7 @@ footer p {
     background-image: none;
     text-align: center;
     justify-content: center;
+    width: 100%;
   }
 
   h1 {
@@ -523,6 +524,7 @@ footer p {
     background-image: url(fundo-principal.png);
     background-position: center 150px;
     background-repeat: no-repeat;
+    background-size: 600px;
   }
 
   .cartao-section-dois {
