@@ -480,5 +480,51 @@ footer p {
 }
 
 
+@media screen and (max-device-width: 1000px) {
+
+  nav {
+    display: none;
+  }
+
+  .section-principal {
+    display: grid;
+    background-image: none;
+    text-align: center;
+    justify-content: center;
+  }
+
+  h1 {
+    width: 400px;
+  }
+
+  .legenda-principal {
+    width: 370px;
+    padding-left: 30px;
+  }
+
+
+  .bt-tres {
+    display: none;
+  }
+
+  .botoes {
+    display: grid;
+    justify-content: center;
+  }
+
+  .bt-dois {
+    width: 300px;
+  }
+
+  .img-principal {
+  }
+
+  .npc-principal {
+    background-image: url(fundo-principal.png);
+    background-position: center 150px; 
+  }
+
+  
+}
 
  
