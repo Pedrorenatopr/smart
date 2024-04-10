@@ -601,6 +601,27 @@ footer p {
     padding-bottom: 100px;
   }
 
+  .sobre-nos {
+    display: grid;
+  }
+
+  .texto-sobre {
+    margin-left: 0;
+    padding-top: 100px;
+    padding-left: 40px;
+  }
+
+
+  .img-sobre {
+    width: 100%;
+    height: 800px;
+  }
+ 
+  .legenda-sobre {
+    width: 320px;
+    padding-top: 30px;
+  }
+
 
   
 
