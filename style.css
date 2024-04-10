@@ -658,6 +658,36 @@ footer p {
   width: 400px;
 }
 
+footer {
+  display: grid;
+  align-items: flex-start;
+  justify-content: left;
+  gap: 50px;
+  border-radius: 50px 50px 0px 0px;
+  border-top: 1px solid rgba(45, 46, 72, 0.21);
+  background: rgba(5, 5, 32, 0.30);
+  backdrop-filter: blur(20.350000381469727px);
+  padding: 50.703px 41.565px 50.703px 30.616px;
+}
+
+
+
+footer p {
+  color: #CAD1E9;
+  line-height: 30px;
+}
+
+.endereco {
+  font-size: 10px;
+}
+
+.titulo-footer {
+  color: white;
+  font-weight: 700;
+}
+
+
+
 
 
 
