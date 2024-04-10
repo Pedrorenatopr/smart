@@ -673,6 +673,14 @@ footer {
   gap: 10px;
 }
 
+.nome-cliente {
+  position: absolute;
+  display: block;
+  margin-top: 8px;
+  margin-left: 5px;
+  color: #CAD1E9;
+}
+
 
 
 
