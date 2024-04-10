@@ -549,6 +549,10 @@ footer p {
     gap: 10px;
   }
 
+  .cartao-solucoes {
+    display: grid;
+  }
+
 
 
 
