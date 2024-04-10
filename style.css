@@ -559,6 +559,29 @@ footer p {
     padding-top: 100px;
   }
 
+  .cartao-depoimento {
+    display: flex;
+    flex-wrap: nowrap;
+    overflow-x: scroll;
+    gap: 12px;
+    align-items: center;
+    width: 100%;
+    padding-top: 50px;
+  }
+
+
+  .card-depoimento {
+    padding: 38.88px 9.528px 88.297px 9.528px;
+  }
+
+
+  .texto-depoimento {
+    width: 200px;
+  }
+
+
+  
+
 
 
 
