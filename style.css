@@ -552,6 +552,7 @@ footer p {
     display: grid;
   }
 
+ 
   .texto-solucoes {
     font-size: 20px;
     font-weight: 700;
@@ -621,6 +622,22 @@ footer p {
     width: 320px;
     padding-top: 30px;
   }
+
+
+  .titulo-duvidas {
+    padding-left: 20px;
+  }
+
+
+
+  .card-duvidas {
+    width: 100%;
+    padding: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+
+
 
 
   
