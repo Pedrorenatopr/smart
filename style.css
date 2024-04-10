@@ -641,7 +641,7 @@ footer p {
 
 
   .contato a {
-    width: 300px;
+    width: 200px;
     display: block;
   }
 
@@ -655,7 +655,7 @@ footer p {
 .card-contato {
   border-radius: 12px;
   padding: 100px;
-  width: auto;
+  width: 400px;
 }
 
 
