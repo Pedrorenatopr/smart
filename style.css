@@ -640,6 +640,27 @@ footer p {
 
 
 
+  .contato a {
+    width: 300px;
+    display: block;
+  }
+
+  .contato img {
+    margin-top: -150px;
+    position: absolute;
+    margin-left: -90px;
+  }
+
+
+.card-contato {
+  border-radius: 12px;
+  padding: 100px;
+  width: auto;
+}
+
+
+
+
   
 
 
