@@ -569,6 +569,10 @@ footer p {
     padding-top: 50px;
   }
 
+  .cartao-depoimento::-webkit-scrollbar {
+    display: none;
+  }
+
 
   .card-depoimento {
     padding: 38.88px 9.528px 88.297px 9.528px;
