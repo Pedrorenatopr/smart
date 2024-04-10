@@ -525,6 +525,34 @@ footer p {
     background-position: center 150px; 
   }
 
+  .cartao-section-dois {
+    display: grid;
+    justify-content: center;
+    gap: 50px;
+    padding-top: 80px;
+  }
+
+  .section-dois img {
+    width: 300px;
+  }
+
+  .card-section-dois {
+    width: 350px;
+  }
+
+  .card-section-dois-900px {
+    width: 350px;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    padding: 2em;
+    gap: 10px;
+  }
+
+
+
+
+
   
 }
 
